@@ -19,6 +19,8 @@ TagManager:
   - Zamok
   - FallAudio
   - Shild
+  - Hint
+  - Ladder
   layers:
   - Default
   - TransparentFX
